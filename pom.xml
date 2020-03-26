@@ -11,6 +11,7 @@
 
     <modules>
         <module>leetcode-app</module>
+        <module>leetcode-datastructure</module>
     </modules>
 
     <dependencyManagement>
