@@ -47,7 +47,7 @@ public class MaxGap {
         return (int) ((num - min) * len / (max - min));
     }
 
-    // 比较器
+    // 一个绝对正确的对数器
     public static int comparator(int[] nums) {
         if (nums == null || nums.length < 2) {
             return 0;
